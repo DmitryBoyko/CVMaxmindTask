@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoDBUpdater", "GeoDBUpdater\GeoDBUpdater.csproj", "{CD65E491-0CE4-456F-8FDD-6F10BF9B01D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoLocator", "MyService\GeoLocator\GeoLocator.csproj", "{7F13D681-F9BD-4BD1-84B9-87837014CF19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9A3097D-5B9B-4A05-B9B7-70F5D95DD7E2}"
+	ProjectSection(SolutionItems) = preProject
+		TaskDescr.txt = TaskDescr.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD65E491-0CE4-456F-8FDD-6F10BF9B01D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD65E491-0CE4-456F-8FDD-6F10BF9B01D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD65E491-0CE4-456F-8FDD-6F10BF9B01D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD65E491-0CE4-456F-8FDD-6F10BF9B01D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F13D681-F9BD-4BD1-84B9-87837014CF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F13D681-F9BD-4BD1-84B9-87837014CF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F13D681-F9BD-4BD1-84B9-87837014CF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F13D681-F9BD-4BD1-84B9-87837014CF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858E6D6D-1924-410E-9024-CEC0A19716AC}
+	EndGlobalSection
+EndGlobal

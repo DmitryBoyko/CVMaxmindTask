@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GeoDBUpdater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastCSVLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&amp;license_key=qCp7Wxmvli0ndegf&amp;suffix=zip</Value>
+    </Setting>
+    <Setting Name="Temp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Temp</Value>
+    </Setting>
+    <Setting Name="ConnectionStrings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=localhost;port=5432;userid=admin;database=MyTest;password=password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
