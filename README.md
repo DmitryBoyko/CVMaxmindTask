@@ -21,3 +21,9 @@ applications.
 5. The REST API must be implemented on ASP.NET Core or ASP.NET Web API 2.
 
 6. Both parts of the service must be written in C #.
+
+--------------------------
+MS Visual Studio 2019
+PostgreSQL 12.1 (windows-x64)
+
+
